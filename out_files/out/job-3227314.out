@@ -1,0 +1,11 @@
+Tue 06 May 2025 19:04:13 IDT
+
+SLURM_JOBID:		 3227314
+SLURM_JOB_NODELIST:	 cs-4090-04 
+
+
+Traceback (most recent call last):
+  File "/sise/home/amitfoye/code_files/DL_A2/CNN.ipynb", line 10, in <module>
+    "execution_count": null,
+                       ^^^^
+NameError: name 'null' is not defined

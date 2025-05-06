@@ -1,0 +1,7 @@
+Tue 06 May 2025 19:03:14 IDT
+
+SLURM_JOBID:		 3227312
+SLURM_JOB_NODELIST:	 ise-4090-14 
+
+
+python: can't open file '/sise/home/amitfoye/code_files/DL_A2/Cnn.ipynb': [Errno 2] No such file or directory
